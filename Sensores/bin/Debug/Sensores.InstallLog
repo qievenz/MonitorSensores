@@ -1,0 +1,33 @@
+﻿Instalando ensamblado 'C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.exe
+   logfile = C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.InstallLog
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.exe.
+Confirmando ensamblado 'C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.exe
+   logfile = C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.InstallLog
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.exe.
+Quitar el archivo InstallState porque no hay instaladores.
+Desinstalando ensamblado 'C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.exe
+   logfile = C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.InstallLog
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.exe.
+Desinstalando ensamblado 'C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.exe
+   logfile = C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.InstallLog
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.exe.
+Desinstalando ensamblado 'C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.exe
+   logfile = C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.InstallLog
+Quitando el origen de EventLog Sensores.
+Se está quitando el servicio Sensores del sistema...
+El servicio Sensores se ha quitado correctamente del sistema.

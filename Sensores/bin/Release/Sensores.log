@@ -1,0 +1,52 @@
+2019-02-06 00:39:38,170 [5] ERROR Sensores.ServicioMonitorSensores System.Xml.XmlException: Falta el elemento raíz.
+   en System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   en System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   en System.Xml.XmlReader.MoveToContent()
+   en System.Xml.XmlReader.IsStartElement(String localname, String ns)
+   en System.Messaging.XmlMessageFormatter.Read(Message message)
+   en System.Messaging.Message.get_Body()
+   en Sensores.ServicioMonitorSensores.ExecuteProcess() en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\ServicioMonitorSensores.cs:línea 58
+2019-02-06 00:40:18,203 [7] INFO  Sensores.MQueue Valores añadidos a la cola: 23,2346,867,1
+2019-02-06 00:43:43,244 [7] INFO  Sensores.MQueue Valores añadidos a la cola: 23,2346,867,1
+2019-02-06 01:07:00,902 [5] ERROR Sensores.ServicioMonitorSensores System.Xml.XmlException: Falta el elemento raíz.
+   en System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   en System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   en System.Xml.XmlReader.MoveToContent()
+   en System.Xml.XmlReader.IsStartElement(String localname, String ns)
+   en System.Messaging.XmlMessageFormatter.Read(Message message)
+   en System.Messaging.Message.get_Body()
+   en Sensores.ServicioMonitorSensores.ExecuteProcess() en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\ServicioMonitorSensores.cs:línea 63
+2019-02-06 01:07:30,972 [8] INFO  Sensores.Monitor Input: 10, 51, 15, 45 / S: 40 / M: 30
+2019-02-06 01:07:30,983 [8] INFO  Sensores.Monitor Anomalia encontrada: diferencia mayor a S.
+2019-02-06 01:07:31,007 [8] INFO  Sensores.Monitor Anomalia encontrada: promedio mayor a M.
+2019-02-06 01:08:01,012 [9] INFO  Sensores.Monitor Input: 15, 514, 125, 145 / S: 40 / M: 30
+2019-02-06 01:08:01,013 [9] INFO  Sensores.Monitor Anomalia encontrada: diferencia mayor a S.
+2019-02-06 01:08:01,014 [9] INFO  Sensores.Monitor Anomalia encontrada: promedio mayor a M.
+2019-02-06 01:08:31,030 [10] INFO  Sensores.Monitor Input: 15, 514, 125, 145 / S: 40 / M: 30
+2019-02-06 01:08:31,031 [10] INFO  Sensores.Monitor Anomalia encontrada: diferencia mayor a S.
+2019-02-06 01:08:31,031 [10] INFO  Sensores.Monitor Anomalia encontrada: promedio mayor a M.
+2019-02-06 01:09:01,041 [11] INFO  Sensores.Monitor Input: 15, 514, 125, 145 / S: 40 / M: 30
+2019-02-06 01:09:01,042 [11] INFO  Sensores.Monitor Anomalia encontrada: diferencia mayor a S.
+2019-02-06 01:09:01,043 [11] INFO  Sensores.Monitor Anomalia encontrada: promedio mayor a M.
+2019-02-06 01:09:31,058 [12] INFO  Sensores.Monitor Input: 15, 514, 125, 145 / S: 40 / M: 30
+2019-02-06 01:09:31,059 [12] INFO  Sensores.Monitor Anomalia encontrada: diferencia mayor a S.
+2019-02-06 01:09:31,059 [12] INFO  Sensores.Monitor Anomalia encontrada: promedio mayor a M.
+2019-02-06 01:10:01,074 [13] INFO  Sensores.Monitor Input: 15, 514, 125, 145 / S: 40 / M: 30
+2019-02-06 01:10:01,074 [13] INFO  Sensores.Monitor Anomalia encontrada: diferencia mayor a S.
+2019-02-06 01:10:01,075 [13] INFO  Sensores.Monitor Anomalia encontrada: promedio mayor a M.
+2019-02-06 01:10:03,986 [7] INFO  Sensores.MQueue Valores añadidos a la cola: 23,2346,867,1
+2019-02-06 01:10:23,876 [7] INFO  Sensores.MQueue Valores añadidos a la cola: 23,36,5,1
+2019-02-06 01:10:31,089 [11] INFO  Sensores.Monitor Input: 15, 514, 125, 145 / S: 40 / M: 30
+2019-02-06 01:10:31,090 [11] INFO  Sensores.Monitor Anomalia encontrada: diferencia mayor a S.
+2019-02-06 01:10:31,091 [11] INFO  Sensores.Monitor Anomalia encontrada: promedio mayor a M.
+2019-02-06 01:11:01,104 [12] INFO  Sensores.Monitor Input: 1, 2, 4, 5 / S: 40 / M: 30
+2019-02-06 01:11:31,121 [10] INFO  Sensores.Monitor Input: 23, 2346, 867, 1 / S: 40 / M: 30
+2019-02-06 01:11:31,122 [10] INFO  Sensores.Monitor Anomalia encontrada: diferencia mayor a S.
+2019-02-06 01:11:31,122 [10] INFO  Sensores.Monitor Anomalia encontrada: promedio mayor a M.
+2019-02-06 01:12:01,137 [9] INFO  Sensores.Monitor Input: 23, 2346, 867, 1 / S: 40 / M: 30
+2019-02-06 01:12:01,137 [9] INFO  Sensores.Monitor Anomalia encontrada: diferencia mayor a S.
+2019-02-06 01:12:01,138 [9] INFO  Sensores.Monitor Anomalia encontrada: promedio mayor a M.
+2019-02-06 01:12:31,154 [8] INFO  Sensores.Monitor Input: 23, 2346, 867, 1 / S: 40 / M: 30
+2019-02-06 01:12:31,154 [8] INFO  Sensores.Monitor Anomalia encontrada: diferencia mayor a S.
+2019-02-06 01:12:31,155 [8] INFO  Sensores.Monitor Anomalia encontrada: promedio mayor a M.
+2019-02-06 01:13:01,189 [5] INFO  Sensores.Monitor Input: 23, 36, 5, 1 / S: 40 / M: 30

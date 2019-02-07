@@ -1,0 +1,5 @@
+2019-02-06 10:45:00,922 [12] INFO  Sensores.Monitor Input: 10, 7, 3, 8 / S: 40 / M: 30
+2019-02-06 10:45:00,954 [12] INFO  Sensores.Monitor Input: 34, 23, 44, 1 / S: 40 / M: 30
+2019-02-06 10:45:00,954 [12] INFO  Sensores.Monitor Anomalia encontrada: diferencia mayor a S.
+2019-02-06 10:45:00,957 [12] INFO  Sensores.Monitor Input: 40, 40, 45, 6 / S: 40 / M: 30
+2019-02-06 10:45:00,958 [12] INFO  Sensores.Monitor Anomalia encontrada: promedio mayor a M.

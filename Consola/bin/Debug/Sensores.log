@@ -1,0 +1,6 @@
+2019-02-05 13:20:59,121 [1] INFO  Sensores.Monitor Input:  / S: 40 / M: 30
+2019-02-05 13:21:41,213 [1] ERROR Sensores.Monitor System.InvalidOperationException: La secuencia no contiene elementos
+   en System.Linq.Enumerable.Max(IEnumerable`1 source)
+   en Sensores.Monitor.Monitoreo() en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\Monitor.cs:línea 57
+2019-02-05 13:29:56,288 [1] ERROR Sensores.Monitor System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Sensores.Monitor.Monitoreo() en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\Monitor.cs:línea 53

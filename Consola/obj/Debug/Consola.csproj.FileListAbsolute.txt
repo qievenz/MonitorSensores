@@ -1,0 +1,6 @@
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Consola\bin\Debug\Consola.exe
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Consola\bin\Debug\Consola.pdb
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Consola\obj\Debug\Consola.exe
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Consola\obj\Debug\Consola.pdb
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Consola\bin\Debug\Consola.exe.config

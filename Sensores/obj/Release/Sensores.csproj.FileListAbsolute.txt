@@ -1,0 +1,11 @@
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Release\Sensores.exe.config
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Release\Sensores.exe
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Release\Sensores.pdb
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Release\log4net.dll
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Release\log4net.xml
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\obj\Release\Sensores.ProjectInstaller.resources
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\obj\Release\Sensores.csproj.GenerateResource.cache
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\obj\Release\Sensores.csproj.CoreCompileInputs.cache
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\obj\Release\Sensores.csproj.CopyComplete
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\obj\Release\Sensores.exe
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\obj\Release\Sensores.pdb

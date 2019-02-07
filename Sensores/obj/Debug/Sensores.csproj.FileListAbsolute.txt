@@ -1,0 +1,11 @@
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\obj\Debug\Sensores.csproj.CoreCompileInputs.cache
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.exe.config
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.exe
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\Sensores.pdb
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\log4net.dll
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\bin\Debug\log4net.xml
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\obj\Debug\Sensores.csproj.CopyComplete
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\obj\Debug\Sensores.exe
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\obj\Debug\Sensores.pdb
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\obj\Debug\Sensores.ProjectInstaller.resources
+C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\obj\Debug\Sensores.csproj.GenerateResource.cache

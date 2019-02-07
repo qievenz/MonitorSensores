@@ -1,0 +1,105 @@
+2019-02-05 15:12:22,380 [4] INFO  Sensores.Monitor Input: 17, 54, 72, 43 / S: 40 / M: 30
+2019-02-05 15:12:22,397 [4] INFO  Sensores.Monitor Anomalia encontrada: diferencia mayor a S.
+2019-02-05 15:12:22,397 [4] INFO  Sensores.Monitor Anomalia encontrada: promedio mayor a M.
+2019-02-05 15:12:52,430 [5] INFO  Sensores.Monitor Input:  / S: 40 / M: 30
+2019-02-05 15:12:52,489 [5] ERROR Sensores.Monitor System.InvalidOperationException: La secuencia no contiene elementos
+   en System.Linq.Enumerable.Max(IEnumerable`1 source)
+   en Sensores.Monitor.Monitoreo() en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\Monitor.cs:línea 58
+2019-02-05 19:47:39,270 [5] INFO  Sensores.Monitor Input:  / S: 40 / M: 30
+2019-02-05 19:47:39,325 [5] ERROR Sensores.Monitor System.InvalidOperationException: La secuencia no contiene elementos
+   en System.Linq.Enumerable.Max(IEnumerable`1 source)
+   en Sensores.Monitor.Monitoreo() en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\Monitor.cs:línea 59
+2019-02-05 19:48:09,347 [6] INFO  Sensores.Monitor Input:  / S: 40 / M: 30
+2019-02-05 19:48:09,380 [6] ERROR Sensores.Monitor System.InvalidOperationException: La secuencia no contiene elementos
+   en System.Linq.Enumerable.Max(IEnumerable`1 source)
+   en Sensores.Monitor.Monitoreo() en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\Monitor.cs:línea 59
+2019-02-05 19:49:19,487 [7] INFO  Sensores.Monitor Input:  / S: 40 / M: 30
+2019-02-05 19:49:19,505 [7] ERROR Sensores.Monitor System.InvalidOperationException: La secuencia no contiene elementos
+   en System.Linq.Enumerable.Max(IEnumerable`1 source)
+   en Sensores.Monitor.Monitoreo()
+2019-02-05 19:50:53,534 [8] INFO  Sensores.Monitor Input:  / S: 40 / M: 30
+2019-02-05 19:51:06,118 [8] ERROR Sensores.Monitor System.InvalidOperationException: La secuencia no contiene elementos
+   en System.Linq.Enumerable.Max(IEnumerable`1 source)
+   en Sensores.Monitor.Monitoreo()
+2019-02-05 20:26:54,846 [5] ERROR Sensores.ServicioMonitorSensores System.Xml.XmlException: Falta el elemento raíz.
+   en System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   en System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   en System.Xml.XmlReader.MoveToContent()
+   en System.Xml.XmlReader.IsStartElement(String localname, String ns)
+   en System.Messaging.XmlMessageFormatter.Read(Message message)
+   en System.Messaging.Message.get_Body()
+   en Sensores.ServicioMonitorSensores.ExecuteProcess() en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\ServicioMonitorSensores.cs:línea 58
+2019-02-05 20:32:40,725 [6] ERROR Sensores.ServicioMonitorSensores System.Xml.XmlException: Falta el elemento raíz.
+   en System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   en System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   en System.Xml.XmlReader.MoveToContent()
+   en System.Xml.XmlReader.IsStartElement(String localname, String ns)
+   en System.Messaging.XmlMessageFormatter.Read(Message message)
+   en System.Messaging.Message.get_Body()
+   en Sensores.ServicioMonitorSensores.ExecuteProcess() en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\ServicioMonitorSensores.cs:línea 58
+2019-02-06 02:02:14,757 [1] ERROR Sensores.HTTPListener System.Net.HttpListenerException (0x80004005): Error de escucha en el prefijo 'http://127.0.0.1:8081/' porque entra en conflicto con un registro existente en el equipo.
+   en System.Net.HttpListener.AddAllPrefixes()
+   en System.Net.HttpListener.Start()
+   en Sensores.HTTPListener.<Listen>d__3.MoveNext() en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\HTTPListener.cs:línea 30
+2019-02-06 02:05:54,401 [1] ERROR Sensores.HTTPListener System.Net.HttpListenerException (0x80004005): Error de escucha en el prefijo 'http://127.0.0.1:8081/' porque entra en conflicto con un registro existente en el equipo.
+   en System.Net.HttpListener.AddAllPrefixes()
+   en System.Net.HttpListener.Start()
+   en Sensores.HTTPListener.<Listen>d__3.MoveNext() en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\HTTPListener.cs:línea 30
+2019-02-06 02:16:49,771 [1] ERROR Sensores.HTTPListener System.Net.HttpListenerException (0x80004005): Error de escucha en el prefijo 'http://127.0.0.1:8081/' porque entra en conflicto con un registro existente en el equipo.
+   en System.Net.HttpListener.AddAllPrefixes()
+   en System.Net.HttpListener.Start()
+   en Sensores.HTTPListener.<Listen>d__3.MoveNext() en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\HTTPListener.cs:línea 30
+2019-02-06 02:17:55,619 [1] ERROR Sensores.HTTPListener System.Net.HttpListenerException (0x80004005): Error de escucha en el prefijo 'http://127.0.0.1:8081/' porque entra en conflicto con un registro existente en el equipo.
+   en System.Net.HttpListener.AddAllPrefixes()
+   en System.Net.HttpListener.Start()
+   en Sensores.HTTPListener.<Listen>d__3.MoveNext() en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\HTTPListener.cs:línea 30
+2019-02-06 02:18:13,060 [1] ERROR Sensores.HTTPListener System.Net.HttpListenerException (0x80004005): Error de escucha en el prefijo 'http://127.0.0.1:8081/' porque entra en conflicto con un registro existente en el equipo.
+   en System.Net.HttpListener.AddAllPrefixes()
+   en System.Net.HttpListener.Start()
+   en Sensores.HTTPListener.<Listen>d__3.MoveNext() en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\HTTPListener.cs:línea 30
+2019-02-06 02:18:23,732 [1] ERROR Sensores.HTTPListener System.Net.HttpListenerException (0x80004005): Error de escucha en el prefijo 'http://127.0.0.1:8081/' porque entra en conflicto con un registro existente en el equipo.
+   en System.Net.HttpListener.AddAllPrefixes()
+   en System.Net.HttpListener.Start()
+   en Sensores.HTTPListener.<Listen>d__3.MoveNext() en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\HTTPListener.cs:línea 30
+2019-02-06 02:19:25,829 [1] ERROR Sensores.HTTPListener System.Net.HttpListenerException (0x80004005): Error de escucha en el prefijo 'http://127.0.0.1:8081/' porque entra en conflicto con un registro existente en el equipo.
+   en System.Net.HttpListener.AddAllPrefixes()
+   en System.Net.HttpListener.Start()
+   en Sensores.HTTPListener.<Listen>d__3.MoveNext() en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\HTTPListener.cs:línea 30
+2019-02-06 02:20:09,843 [1] ERROR Sensores.HTTPListener System.Net.HttpListenerException (0x80004005): Error de escucha en el prefijo 'http://127.0.0.1:8081/' porque entra en conflicto con un registro existente en el equipo.
+   en System.Net.HttpListener.AddAllPrefixes()
+   en System.Net.HttpListener.Start()
+   en Sensores.HTTPListener.<Listen>d__3.MoveNext() en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\HTTPListener.cs:línea 30
+2019-02-06 02:37:03,263 [1] INFO  Sensores.MQueue Valores añadidos a la cola: 1,24
+2019-02-06 02:45:47,621 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 1,24
+2019-02-06 02:48:25,456 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 1,24
+2019-02-06 04:27:20,249 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 1,24
+2019-02-06 04:28:57,937 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 1,24
+2019-02-06 04:29:04,383 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 1,24
+2019-02-06 04:31:13,697 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 1,245
+2019-02-06 09:43:48,464 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 1,245
+2019-02-06 09:43:50,884 [4] ERROR Sensores.ServicioMonitorSensores System.InvalidOperationException: No se puede deserializar el mensaje pasado como argumento. No se reconoce el formato de serialización.
+   en System.Messaging.XmlMessageFormatter.Read(Message message)
+   en System.Messaging.Message.get_Body()
+   en Sensores.ServicioMonitorSensores.MyReceiveCompleted(Object sender, ReceiveCompletedEventArgs asyncResult) en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\ServicioMonitorSensores.cs:línea 82
+2019-02-06 09:45:06,012 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 1,245
+2019-02-06 09:48:01,199 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 1,221
+2019-02-06 09:48:30,276 [4] ERROR Sensores.ServicioMonitorSensores System.InvalidOperationException: No se puede deserializar el mensaje pasado como argumento. No se reconoce el formato de serialización.
+   en System.Messaging.XmlMessageFormatter.Read(Message message)
+   en System.Messaging.Message.get_Body()
+   en Sensores.ServicioMonitorSensores.MyReceiveCompleted(Object sender, ReceiveCompletedEventArgs asyncResult) en C:\Users\ivann\OneDrive\Documentos\SensoresAtix1\Sensores\Sensores\ServicioMonitorSensores.cs:línea 82
+2019-02-06 10:05:02,159 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 1,221
+2019-02-06 10:07:47,657 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 1,221
+2019-02-06 10:14:24,870 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 221,12,92,23
+2019-02-06 10:19:38,406 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 221,12,92,23
+2019-02-06 10:23:49,862 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 221,12,92,23
+2019-02-06 10:26:06,477 [6] INFO  Sensores.Monitor Input: 221, 12, 92, 23 / S: 40 / M: 30
+2019-02-06 10:26:10,507 [6] INFO  Sensores.Monitor Anomalia encontrada: diferencia mayor a S.
+2019-02-06 10:26:13,663 [6] INFO  Sensores.Monitor Anomalia encontrada: promedio mayor a M.
+2019-02-06 10:29:53,608 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 221,12,92,23
+2019-02-06 10:39:40,216 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 1,221
+2019-02-06 10:40:18,207 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 2,12
+2019-02-06 10:40:21,597 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 3,92
+2019-02-06 10:42:37,915 [3] INFO  Sensores.MQueue Valores añadidos a la cola: 4,92
+2019-02-06 10:43:14,125 [12] INFO  Sensores.Monitor Input: 221, 12, 92, 92 / S: 40 / M: 30
+2019-02-06 10:43:14,126 [12] INFO  Sensores.Monitor Anomalia encontrada: diferencia mayor a S.
+2019-02-06 10:43:14,126 [12] INFO  Sensores.Monitor Anomalia encontrada: promedio mayor a M.
